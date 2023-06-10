@@ -5,3 +5,5 @@ A Simple 2D platformer game developed in Unity engine. I made this game as my ve
 You can find the gameplay video with my commentary down below.
 [![Press The Attack Gameplay video]          // Title
 (https://youtu.be/mkolPk6-14U "Press The Attack Gameplay")    // Video Link
+
+[<img src="" width="50%">](https://youtu.be/mkolPk6-14U "Press The Attack Gameplay")
