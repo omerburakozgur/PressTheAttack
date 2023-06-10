@@ -6,4 +6,4 @@ You can find the gameplay video with my commentary down below.
 [![Press The Attack Gameplay video]          // Title
 (https://youtu.be/mkolPk6-14U "Press The Attack Gameplay")    // Video Link
 
-[<img src="https://prnt.sc/w5g9JpepBkCL" width="50%">](https://youtu.be/mkolPk6-14U "Press The Attack Gameplay")
+[<img src="https://i.ytimg.com/vi/mkolPk6-14U/maxresdefault.jpg" width="50%">](https://youtu.be/mkolPk6-14U "Press The Attack Gameplay")
