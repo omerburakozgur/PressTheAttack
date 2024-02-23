@@ -10,6 +10,8 @@ Unity oyun motoru üzerinde geliştirmiş olduğum basit bir 2D platform oyunu. 
 
 Kendi ingilizce açıklamalarım ile oyunun oynanışını gösterdiğim videoya alt taraftan küçük resime veya linke tıklayarak ulaşabilirsiniz. 
 
+https://omerburakozgur.itch.io/presstheattack
+
 https://youtu.be/mkolPk6-14U
 
 [<img src="https://i.ytimg.com/vi/mkolPk6-14U/maxresdefault.jpg" width="50%">](https://youtu.be/mkolPk6-14U "Press The Attack Gameplay")
